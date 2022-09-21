@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    border-style: outset;
+    z-index: 99;
+    justify-content: center;
+    position: absolute;
+    width: 60%;
+    top: 240px;
+}
+
+img {
+    z-index: 10;
+    height: 95vh;
+}
+
+th, td {
+    text-align: center;
+    border: 2px solid;
+}
+
+th {
+    background-color: white;
+}
+
+td {
+    background-color: #FEFF99;
+}
