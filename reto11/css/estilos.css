@@ -1,0 +1,25 @@
+table {
+    background-color: rgb(74, 180, 215);
+    border: 4px;
+    border-style: outset;
+}
+
+td {
+    background-color: rgba(155, 201, 155, 0.524);
+    padding-right: 15px;
+}
+
+th {
+    text-align: center;
+    background-color: rgb(3, 58, 3);
+    color: rgba(155, 201, 155, 0.524);
+    padding: 0 10px 0 10px;
+}
+
+.marcado {
+    background-color: rgb(21, 172, 21);
+}
+
+.centrado {
+    text-align: center;
+}
