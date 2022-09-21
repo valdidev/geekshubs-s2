@@ -1,0 +1,43 @@
+/* reto 15 */
+ol {
+    margin-top: 0;
+}
+
+#spain {
+    list-style-type: lower-alpha;
+}
+
+#eeuu {
+    list-style-type: upper-roman;
+}
+/* reto 16 */
+table {
+    border-style: outset;
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: #FCFCCB;
+}
+
+td, th {
+    border: 1px solid;
+    text-align: center;
+    color: #69353C;
+    background-color: #FFFFCC;
+}
+
+td {
+    padding: 0 15px;
+}
+
+th {
+    background-color: #669966;
+    font-weight: normal;
+}
+
+.destacado_oscuro {
+    background-color: #FFCC99;
+}
+
+.destacado_claro {
+    background-color: #FFFF99;
+}
