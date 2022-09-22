@@ -1,0 +1,5 @@
+c - c arriba
+g - ajustar bien
+j - cresta más abajo
+
+general - letras más abajo

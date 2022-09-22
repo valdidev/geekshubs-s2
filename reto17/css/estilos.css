@@ -97,7 +97,6 @@ body {
     background-image: url('../img/dh_3.jpg');
     background-size: 250px 100px;
     background-repeat: no-repeat;
-    object-fit: scale-down;
 }
 
 #h {
