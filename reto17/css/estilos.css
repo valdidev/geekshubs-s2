@@ -1,0 +1,131 @@
+body {
+    background-image: url('../img/ac.jpg');
+    height: 90vh;
+
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.box {
+    background-color: lightblue;
+    border: 1px solid;
+
+    width: 250px;
+    height: 250px;
+    margin: 15px;
+}
+
+#a {
+    background-image: url('../img/back_mantel.jpg');
+}
+
+#b {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #ffff;
+}
+
+#b-in {
+    width: 200px;
+    height: 200px;
+    background-image: url('../img/back_mantel.jpg');
+    background-position: center;
+}
+
+#c {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #ffff;
+    width: 250px;
+    height: 250px;
+    background-image: url('../img/back_mantel.jpg');
+    background-position: center;
+    background-size: 250px 250px;
+}
+
+#d {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffff;
+}
+
+#d-in {
+    width: 200px;
+    height: 200px;
+    background-image: url('../img/back_mantel.jpg');
+    background-position: center;
+    background-size: 200px 200px;
+}
+
+#e {
+    background-image: url('../img/dh.jpg');
+}
+
+#f {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #ffff;
+}
+
+#f-in {
+    width: 200px;
+    height: 200px;
+    background-image: url('../img/dh.jpg');
+    background-position: center;
+    background-size: 200px 200px;
+}
+
+#g {
+    background-color: #ffff;
+    line-height: 70px;
+}
+
+#g-in {
+    width: 250px;
+    height: 150px;
+
+    background-image: url('../img/dh_3.jpg');
+    background-size: 250px 100px;
+    background-repeat: no-repeat;
+    object-fit: scale-down;
+}
+
+#h {
+    background-color: #ffff;
+    display: flex;
+    justify-content: center;
+}
+
+#h-in {
+    background-image: url('../img/dh_3.jpg');
+    background-size: 150px 250px;
+    background-position: center;
+    height: 250px;
+    width: 150px;
+}
+
+#i {
+    background-image: linear-gradient(90deg, #CFFC4F, #5C6E48);
+}
+
+#j {
+    background: linear-gradient(0.5turn, #AD6743, #792503, #E9AB94);
+}
+
+#k {
+    background-image: linear-gradient(0deg, #3A7A38, #E4E9CB);
+}
+
+#l {
+    background: linear-gradient(to bottom, rgba(50, 113, 43, 0.131), rgba(50, 113, 43, 1));
+}
